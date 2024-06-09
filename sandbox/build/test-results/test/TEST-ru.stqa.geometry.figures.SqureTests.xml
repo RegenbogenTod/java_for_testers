@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.stqa.geometry.figures.SqureTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-04T17:21:00" hostname="REGENBOGENTOD" time="0.012">
-  <properties/>
-  <testcase name="canCalculatePerimeter()" classname="ru.stqa.geometry.figures.SqureTests" time="0.012"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

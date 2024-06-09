@@ -3,7 +3,7 @@ package ru.stqa.geometry.figures;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class SqureTests {
+public class SquareTests {
     @Test
     void canCalculateArea () {
         double result = Square.Area(5.0);
